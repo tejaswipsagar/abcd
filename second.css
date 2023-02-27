@@ -1,0 +1,19 @@
+.hello{
+    height: 100px;
+    width: 50px;
+    background-color: green;
+    border: 5px solid;
+}
+
+section{
+    display: flex;
+    place-items: center;
+    align-items: center;
+}
+
+.hello2{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border: 5px solid;
+}
